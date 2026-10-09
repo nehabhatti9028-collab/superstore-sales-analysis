@@ -22,4 +22,5 @@ Python, Pandas, Matplotlib, Google Colab
 4. Tables have the highest average discount (26%) and Bookcases 21%. High discounts are strongly associated with losses.
 5. West region is the most profitable (1.08 lakh), Central is the lowest (39.7K).
 
-## Fi
+## Files
+- `superstore-sales-analysis.ipynb`: full analysis notebook
